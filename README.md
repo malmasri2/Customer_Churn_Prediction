@@ -14,5 +14,5 @@ A decision tree classifier was trained using scikit-learn. Hyperparameters such 
 3)(Improvement with Random Forests)
 To improve predictive performance, a random forest classifier was built and tuned. It showed significant improvement in all evaluation metrics compared to the single decision tree. Feature importance analysis revealed that engagement-related features like watch time and number of logins were key predictors of churn.
 
-4)Business Insights & Recommendations
+4)(Business Insights & Recommendations)
 The results were translated into actionable strategies. These included enhancing personalized content recommendations, reducing customer support resolution time, and offering loyalty incentives to long-term subscribers.
